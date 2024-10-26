@@ -10,3 +10,7 @@ https://www.google.com/search?q=*+Data+Systems+storage+company
 
 ## List:
 https://www.enterprisestorageforum.com/products/20-top-enterprise-data-storage-vendors/
+
+## Favorite:
+### Wasabi
+https://wasabi.com/
